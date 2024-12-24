@@ -1,12 +1,11 @@
-label {
-    color: red;
+main {
+    background-color: #1E1F29;
 }
 
 h1 {
-    color: green;
+    color: #cf6b0d;
 }
 
-div {
-    background-color: bisque;
+input {
+    background: #2E2D3D;
 }
-
